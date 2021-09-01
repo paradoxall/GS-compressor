@@ -13,6 +13,7 @@ copy pdfsizeopt the drive c (c:\pdfsizeopt)
 modify or create 
 
 [Registry]
+
 [HKEY_CLASSES_ROOT\SystemFileAssociations\.pdf\shell\compress]
 "Icon"="\"C:\\pdfsizeopt\\Compresseur-de-PDF.ico\""
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem]
