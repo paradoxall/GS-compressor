@@ -2,11 +2,13 @@
 Windows contectual menu integration of a ghostshell PDF compressor
 
 
-**instruction**
+##instruction##
+
 use the installer CDP.exe
 
 
-**what it does**
+##what it does##
+
 copy pdfsizeopt the drive c (c:\pdfsizeopt)
 
 
